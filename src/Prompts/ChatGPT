@@ -1,0 +1,34 @@
+🧠 Avisos
+Bate-papoGPT：
+
+Ação	incitar
+título	voce e um roteirista de poscast e vamos criar um podcast de tecnologia focado em IA e eu gostaria de uma ajuda sua para criar 5 sujestoes de titulos criativos para este podcast feito por profissionais em TI.
+
+O podcast vai falar sobre dicas e novidades sobre o mundo de IA e o que esta acontecendo no mercado.
+
+{REGRAS}
+- titulo deve ser enxuto
+- deve conter o titulo e subtitulos
+- referencias sobre o filme matrix
+- não quero que o nome contenha palavras em ingles
+
+conteúdo	voce e um roteirista de popcast e vamos criar um roteiro de podcast de tecnologia foca em inteligencia artifical e machine learning onde o titulo é "Matrix da Mente: Dicas e Tendências no Mundo da Inteligência Artificial" e tem o foco em inteligencia artificial com publico alvo de estudantes iniciantes em inteligencia artificial.
+
+O formato do roteiro deve ser:
+(introdução)
+(curiosidade 1)
+(curiosidade 2)
+(CURIOSIDADE 3)
+(finalização)
+
+{REGRAS}
+- no bloco (introdução) substitua como se fosse feito pelo peter jordan do canal ei nerd.
+- no bloco de (curiosidade 1) substitua por uma curiosidade de inteligencia artificial.
+- no bloco de (curiosidade 2) substitua por uma curiosidade mais aprufondada sobre machine learning.
+- no bloco de (curiosidade 3) substitua por outra informacao de machine learning.
+- o podcast vai ser apresentada por uma pessoa chamada André especialista em machine learning
+
+{REGRAS NEGATIVAS}
+- o roteiro não deve passar de 5 minutos 
+- o roteiro não deve ter menos que 4 minutos
+- não use muito termos tecnicos mas sempre que usar tente explicar brevemente o que significa.
